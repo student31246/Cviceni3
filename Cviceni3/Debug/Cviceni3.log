@@ -1,0 +1,29 @@
+﻿  Complex.cpp
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(9,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(9,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(9,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(13,32): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(13,43): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+  Cviceni3.cpp
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(9,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(9,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(9,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(13,32): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(13,43): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Cviceni3.cpp(9,7): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Cviceni3.cpp(11,7): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Cviceni3.cpp(13,25): error C2039: 'test': is not a member of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Complex.h(4): message : see declaration of 'Complex'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Cviceni3.cpp(13,21): error C2143: syntax error: missing ';' before ':'
+C:\Users\akharitonov\source\repos\Cviceni3\Cviceni3\Cviceni3.cpp(13,29): error C2143: syntax error: missing ';' before ')'
+  Generating Code...
